@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* { 
+    padding: 0;
+    margin: 0;
+}
+
+/*.carousel-inner {
+    height: 75vh;
+}*/
+
+ul li {
+    list-style-type: none;
+    
+}
+
+ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+
+.formatCol {
+    padding: 10%;
+}
+
+.formatColRedes {
+    padding-top: 0;
+}
+
+.datosFooter {
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+}
+
+.imgLogo {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.col-8 .img-fluid .container-fluid {
+    padding: 0;
+}
+
