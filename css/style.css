@@ -5,10 +5,6 @@
     margin: 0;
 }
 
-/*.carousel-inner {
-    height: 75vh;
-}*/
-
 ul li {
     list-style-type: none;
     
@@ -42,4 +38,5 @@ ul li a {
 .col-8 .img-fluid .container-fluid {
     padding: 0;
 }
+
 
