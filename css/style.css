@@ -39,4 +39,21 @@ ul li a {
     padding: 0;
 }
 
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: larger;   
+}
 
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    font-weight: 900;
+}
+
+.mb-3 {
+    padding-top: 0;
+}
+
+.row {
+    align-items: baseline;
+}
